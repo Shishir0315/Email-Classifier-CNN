@@ -1,0 +1,3 @@
+Model: 1D CNN for Email Classification
+Test Accuracy: 1.0000
+Loss: 0.0000
